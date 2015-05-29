@@ -52,10 +52,10 @@ header{
 	bottom: 1.4em;
 	border-top:1px solid rgb(222,220,0);
 	border-bottom:1px solid rgb(222,220,0);
-	z-index:5;
+	
 }
 .selected{
-	display: block;
+    display: block;
 }
 main p{
     padding-left:8%;
@@ -115,6 +115,7 @@ footer p{
   margin-right: auto;
   display: block;
 }
+
 
 
   
