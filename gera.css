@@ -201,3 +201,42 @@ footer p{
 }
 
 
+
+@media screen and (max-width: 900px) {
+    body{
+        height: 100%
+    }
+    header{
+        height:20%;
+    }
+    .logo {
+        width:30%;
+        left:0%;
+    
+    }
+    .navi a{
+        margin-right:1.5px;
+        
+    }
+    
+    .hoofd{
+        width:100%;
+        
+    }
+    .balk{
+        display:none;
+        
+    }
+    .port1,.port2,.portbalk,.portbalk2{
+        width:100%;
+        left:0px;
+    }
+    .boxabout{
+        width:100%;
+        height:140%;
+        left:0px;
+    }
+    
+}
+
+
