@@ -199,6 +199,14 @@ footer p{
     margin-top:3%;
    ]
 }
+.pins{
+    position: absolute;
+    z-index:250;
+    top:120%;
+    left:10%;
+    border-radius:4px;
+    border:10px solid white;
+}
 
 
 
