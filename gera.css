@@ -28,6 +28,26 @@ header{
 	z-index: 300;
 	
 }
+.tumblr{
+    position:absolute;
+    top:83%;
+    left:1%;
+    z-index:200;
+    width:98%;
+
+}
+.tumblrtitel{
+    text-decoration:none;
+    color:white;
+    margin-left:-95%
+    top:10%;
+    font-family: 'Quicksand', sans-serif;
+	font-size: 1.5em;
+	position:absolute;
+	top:20%;
+	left:5px;
+}
+
 .balk{
 	background-color: purple;
 	opacity: 0.5;
